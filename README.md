@@ -11,14 +11,6 @@ Also can view movie details (rating, release date, duration, etc.), watch traile
  - Handles different network sitautions
  - Abilty to share details of movies
  
- ## How to Work with the Source
-The app fetches movie information using [The Movie Database (TMDb)](https://www.themoviedb.org/documentation/api) API.
-You have to enter your own API key into `gradle.properties` file.
-
-```gradle.properties
-MOVIE_DB_API_KEY="Your Api Key"
-```
-
 If you don’t already have an account, you will need to create one in order to request an [API Key](https://www.themoviedb.org/documentation/api) .
 
 ## Screenshots
